@@ -4,9 +4,10 @@ Python is a general purpose programming language with libraries for many differe
 
 ## Problems
 
-### Base Language
+### Core Language
 - [Functions 1](problems/functions_1/problem.py)
 - [Sorting 1](problems/sorting_1/problem.py)
+- [Classes 1](problems/classes_1/problem.py)
 
 ### Regular Expressions
 - [Regular Expressions 1](problems/regular_expressions_1/problem.py)
